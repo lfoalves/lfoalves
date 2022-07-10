@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Fernando</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<a href='https://lfoalves-dev.vercel.app/' target='_blank'>Ver portifolio</a>
+<a styles='padding: 2rem; background-color: aqua;' href='https://lfoalves-dev.vercel.app/' target='_blank'>Ver Portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfoalves&label=Profile%20views&color=0e75b6&style=flat" alt="lfoalves" /> </p>
 
