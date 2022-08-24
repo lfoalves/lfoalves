@@ -42,6 +42,3 @@
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/lfoalves/lfoalves/blob/output/snake.svg" />
-
-###
-Profile Readme Generator
