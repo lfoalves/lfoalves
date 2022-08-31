@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image-lfoalves.png)
+![Header](assets/github-header-image-lfoalves.png)
 # 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
