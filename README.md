@@ -1,43 +1,27 @@
-![Header](assets/github-header-image-lfoalves.png)
-# 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+### Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=43853D)
+![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react)
+![Styled-Components](https://img.shields.io/badge/Styled--Components-black?style=flat-square&logo=styled-components)
+![Redux](https://img.shields.io/badge/Redux-black?styleflat-square&logo=redux&logoColor=593D88)
+![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest&logoColor=AD1860)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=0074a3)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=699eca)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
+
+##
+
+### Find me
+
+<div> 
+  <a href="https://www.linkedin.com/in/lfoalves" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-black?style=flat-square&logo=linkedin&logoColor=blue" target="_blank"></a> 
+  <a href="https://dev.to/lfoalves" target="_blank"><img src="https://img.shields.io/badge/-DEV.TO-black?style=flat-square&logo=dev.to" target="_blank"></a>
+  <a href="https://instagram.com/lfoalves" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-black?style=flat-square&logo=instagram" target="_blank"></a>
 </div>
-
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=lfoalves" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=lfoalves" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif"  />
-
-###
-
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/lfoalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lfoalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-![Snake animation](https://github.com/lfoalves/lfoalves/blob/output/github-contribution-grid-snake-dark.svg)
